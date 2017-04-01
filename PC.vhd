@@ -26,6 +26,8 @@ begin
 	begin
 	
 		if reset = '0' then
+			
+			reg(to_integer(unsigned(z))) <= (others => '0');
 			moveout <= (others => '0');
 			
 		elsif falling_edge(clk) then

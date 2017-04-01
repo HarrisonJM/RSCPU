@@ -8,13 +8,13 @@ use work.microoperations.all;
 entity MICOPOUT is
 port( 
 		addr: in std_logic_vector(4 downto 0);
-		OpOut: out std_logic_vector(28 downto 0)
+		OpOut: out std_logic_vector(26 downto 0)
     );
 end entity;
 
 architecture struct of MICOPOUT is
 
-	type micMem is array (0 to 31) of std_logic_vector(28 downto 0);
+	type micMem is array (0 to 31) of std_logic_vector(26 downto 0);
 	
 	constant nanoCode : micMem := 
 	( 
@@ -30,11 +30,11 @@ architecture struct of MICOPOUT is
 	  8  => ARIN or DRM, --jmp1
 	  9  => DRM or TRDR, --jmp2
 	  10 => PCDT, --jmp3
-	  11 => ACDR, --ldac5
-	  12 => MDR, --stac5
+	  11 => ACDR or PCIN, --ldac5
+	  12 => MDR or PCIN, --stac5
 	  13 => ZALU or PLUS,
 	  14 => ZALU or MINU,
-	  15 => ZALU or INAC,
+	  15 => ZALU or ACIN,
 	  16 => ZALU or ACZO,
 	  17 => PCIN,
 	  18 => ZALU or ANDmic,

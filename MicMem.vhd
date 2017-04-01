@@ -22,7 +22,7 @@ architecture behav of MicMem is
 		 );
 	end component;
 
-	signal OPtoAddrSig : std_logic_vector(5 downto 0);
+--	signal OPtoAddrSig : std_logic_vector(5 downto 0);
 	signal micCodeSig : std_logic_vector(14 downto 0);
 
 begin

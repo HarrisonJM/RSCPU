@@ -7,10 +7,7 @@ port (
 			clk, reset : in std_logic;
 			read_data : out std_logic_vector(7 downto 0); --CPU TO MEMORY
 			read_data2 : out std_logic_vector(7 downto 0); --MEMORY TO CPU
-			read_address : out std_logic_vector(15 downto 0);
-      AC_CONTENTS : out std_logic_vector(7 downto 0);
-      R_CONTENTS : out std_logic_vector(7 downto 0);
-      PC_CONTENTS : out std_logic_vector(15 downto 0)
+			read_address : out std_logic_vector(15 downto 0)
 		);
 end TB;
 
@@ -35,20 +32,13 @@ architecture struct of TB is
 		 ADDROUT		: out std_logic_vector(15 downto 0);
 		 memwrite 	: out std_logic;
  		 memread: out std_logic;
-		 MEMOUT		: out std_logic_vector(7 downto 0);
-     AC_CONTENTS : out std_logic_vector(7 downto 0);
-     R_CONTENTS : out std_logic_vector(7 downto 0);
-     PC_CONTENTS : out std_logic_vector(15 downto 0)
+		 MEMOUT		: out std_logic_vector(7 downto 0)
 	  );
 	end component;
 	
 	signal memCPU : std_logic_vector(7 downto 0); --mem <= CPU
 	signal CPUMEM : std_logic_vector(7 downto 0);
 	signal ADDRMEM : std_logic_vector(15 downto 0);
-	
-	signal ACCON : std_logic_vector(7 downto 0);
-	signal RCON : std_logic_vector(7 downto 0);
-	signal PCCON : std_logic_vector(15 downto 0);
 	
 	signal writebit : std_logic;
 	signal readbit : std_logic;
@@ -58,16 +48,6 @@ begin
 
 	MEMORY 	: sync_ram port map(clk, writebit, readbit, ADDRMEM, memCPU, CPUMEM);
 	  
-	CPU 		: RSCPU port map (clk, reset, CPUMEM, ADDRMEM, writebit, readbit, memCPU, ACCON, RCON, PCCON);
-	
-	read_data <= memCPU;
-	read_address <= ADDRMEM;
-	read_data2 <= CPUMEM;
-	
-  AC_CONTENTS <= ACCON;
-  R_CONTENTS  <= RCON;
-  PC_CONTENTS  <= PCCON;
-	
-	
+	CPU 		: RSCPU port map (clk, reset, CPUMEM, ADDRMEM, writebit, readbit, memCPU);
 
 end struct;

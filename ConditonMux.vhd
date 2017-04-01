@@ -39,6 +39,9 @@ begin
 			when "11" => --shouldn't ever be here
 				success_out <= '1';
 				
+			when others =>
+				success_out <= '1';
+				
 		end case;			
 		
 		

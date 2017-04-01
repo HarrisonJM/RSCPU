@@ -1,0 +1,2 @@
+
+force -freeze sim:/tb/CPU/reset 0 0

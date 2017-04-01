@@ -6,7 +6,7 @@ entity micSeq is
 port(
 		clk, reset, z 	: in std_logic;
 		opcode_in		: in std_logic_vector(3 downto 0); --needs front padding with 0's
-		MicOps_out		: out std_logic_vector(28 downto 0)
+		MicOps_out		: out std_logic_vector(26 downto 0)
 	 );
 end entity;
 
@@ -50,7 +50,7 @@ architecture struct of micSeq is
 	component MICOPOUT is
 	port( 
 			addr: in std_logic_vector(4 downto 0);
-			OpOut: out std_logic_vector(28 downto 0)
+			OpOut: out std_logic_vector(26 downto 0)
 		 );
 	end component;
 

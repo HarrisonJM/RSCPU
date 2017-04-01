@@ -40,6 +40,10 @@ begin
 			when "11" =>
 				MuxOut <= "11";
 				LDMSUB <= '0';
+				
+			when others =>
+				MuxOut <= "00";
+				LDMSUB <= '0';
 		end case;
 		
 	end process;	

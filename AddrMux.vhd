@@ -18,7 +18,7 @@ architecture behav of AddrMux is
 
 begin
 
-	process(SEL)
+	process(SEL, SubReg, MMAddr, Addrpo, OPCODE)
 	begin
 	
 		case(SEL) is
@@ -33,6 +33,8 @@ begin
 				
 			when "11" =>
 				AddrOut <= SubReg;
+			when others =>
+			  AddrOut <= OPCODE;
 		
 		end case;
 	end process;
