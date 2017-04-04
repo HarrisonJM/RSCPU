@@ -5,8 +5,8 @@ use IEEE.std_logic_1164.all;
 entity subroureg is
 port	(
 			load, reset	: in std_logic;
-			input : in std_logic_vector(5 downto 0);
-			output : out std_logic_vector(5 downto 0)
+			input : in std_logic_vector(6 downto 0);
+			output : out std_logic_vector(6 downto 0)
 		);
 end entity;
 

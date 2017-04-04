@@ -6,9 +6,9 @@ use ieee.numeric_std.all;
 entity AddrReg is
 port	(
 			clk, reset	: in std_logic;
-			input : in std_logic_vector(5 downto 0);
-			output : out std_logic_vector(5 downto 0);
-			outputpo : out std_logic_vector (5 downto 0) --output + 1
+			input : in std_logic_vector(6 downto 0);
+			output : out std_logic_vector(6 downto 0);
+			outputpo : out std_logic_vector (6 downto 0) -- output + 1
 		);
 end entity;
 

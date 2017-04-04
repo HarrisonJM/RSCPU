@@ -1,0 +1,24 @@
+;program size stored at address 0x00FF
+;RAMBASE High nibble position stored at address 0x00FD
+;RAMBASE Low nibble position stored at address 0x00FC
+
+START:
+		LDAC 0X00FF
+		MOV
+		LDAC 0X00FC
+		ADD
+		MOV
+	
+		JMPC CAR
+		JUMP NOCAR
+CAR:
+		LDAC 0X00FD
+		INAC
+		JUMP FINAL
+NOCAR:	
+		LDAC 0X00FD
+		JUMP FINAL
+		
+FINAL:
+		LDIND
+		STIND

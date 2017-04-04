@@ -1,4 +1,112 @@
-{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/multiplexer.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/multiplexer.vhd}
+{{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/PC.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\CarryMux.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity carryMux
+-- Compiling architecture behav of carryMux
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/OverFlow.vhd}} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/OverFlow.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity overflow
+-- Compiling architecture behaviour of overflow
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/paralleladder.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\paralleladder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity parelleladder
+-- Compiling architecture BEHAVIOUR of parelleladder
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/RSCPU.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\RSCPU.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Compiling entity RSCPU
+-- Compiling architecture Idontknow of RSCPU
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicMem.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MicMem.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MicMem
+-- Compiling architecture behav of MicMem
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/CarryMux.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\CarryMux.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity carryMux
+-- Compiling architecture behav of carryMux
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/CarryFlag.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\CarryFlag.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Cry
+-- Compiling architecture behaviour of Cry
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TR16.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\TR16.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TR16
+-- Compiling architecture rtl of TR16
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/mux3.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/mux3.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux3
+-- Compiling architecture behavioral of mux3
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MucBus.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MucBus.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MuxBus
+-- Compiling architecture behav of MuxBus
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/INDREG.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\INDREG.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity INDREG16
+-- Compiling architecture rtl of INDREG16
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrReg.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrReg.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity AddrReg
+-- Compiling architecture behav of AddrReg
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicSeq.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MicSeq.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity micSeq
+-- Compiling architecture struct of micSeq
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/multiplexer.vhd}} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/multiplexer.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -6,21 +114,149 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling entity mux1
 -- Compiling architecture behavioral of mux1
 
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Fulladder.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Fulladder.vhd}
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/mux3.vhd}} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/mux3.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux3
+-- Compiling architecture behavioral of mux3
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MucBus.vhd}} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MucBus.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MuxBus
+-- Compiling architecture behav of MuxBus
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicMem.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MicMem.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MicMem
+-- Compiling architecture behav of MicMem
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/memory.vhd}} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/memory.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sync_ram
+-- Compiling architecture RTL of sync_ram
+** Warning: D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/memory.vhd(66): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BufferPlexer.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\BufferPlexer.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity BufferPlexer
+-- Compiling architecture struct of BufferPlexer
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/R.vhd}} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/R.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity REG8
+-- Compiling architecture struct of REG8
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\ALU.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU
+-- Compiling architecture struct of ALU
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/HalfAdder.vhd}} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/HalfAdder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HalfAdder
+-- Compiling architecture dataflow of HalfAdder
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/CarryFlag.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/CarryFlag.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Cry
+-- Compiling architecture behaviour of Cry
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/OPLUT.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\OPLUT.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity OPLUT
+-- Compiling architecture struct of OPLUT
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrMux.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrMux.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AddrMux
+-- Compiling architecture behav of AddrMux
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TB.vhd}} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TB.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TB
+-- Compiling architecture struct of TB
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MICOPOUT.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MICOPOUT.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package microoperations
+-- Compiling entity MICOPOUT
+-- Compiling architecture struct of MICOPOUT
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MICOPOUT.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MICOPOUT.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package microoperations
+-- Compiling entity MICOPOUT
+-- Compiling architecture struct of MICOPOUT
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Z.vhd}} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Z.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Z
+-- Compiling architecture behaviour of Z
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/CarryMux.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\CarryMux.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity carryMux
+-- Compiling architecture behav of carryMux
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Fulladder.vhd}} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Fulladder.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Compiling entity FullAdder
 -- Compiling architecture structural of FullAdder
-
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/OverFlow.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/OverFlow.vhd}
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity overflow
--- Compiling architecture behaviour of overflow
 
 } {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/myreg.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/myreg.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
@@ -30,13 +266,22 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling entity myreg
 -- Compiling architecture regbehav of myreg
 
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BTLOGIC.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\BTLOGIC.vhd}
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/OverFlow.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/OverFlow.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity BTLOGIC
--- Compiling architecture behavioural of BTLOGIC
+-- Compiling entity overflow
+-- Compiling architecture behaviour of overflow
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AdderGroup.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\AdderGroup.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity AdderGroup
+-- Compiling architecture struct of AdderGroup
 
 } {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/RSCPU.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\RSCPU.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
@@ -48,38 +293,13 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling entity RSCPU
 -- Compiling architecture Idontknow of RSCPU
 
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/paralleladder.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/paralleladder.vhd}
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/paralleladder.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\paralleladder.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Compiling entity parelleladder
 -- Compiling architecture BEHAVIOUR of parelleladder
-
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/multiplexer2.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/multiplexer2.vhd}
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity mux2
--- Compiling architecture behavioral of mux2
-
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AdderGroup.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AdderGroup.vhd}
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity AdderGroup
--- Compiling architecture struct of AdderGroup
-
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/microoperations.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\microoperations.vhd}
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling package microoperations
--- Compiling package body microoperations
--- Loading package microoperations
 
 } {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/subroureg.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/subroureg.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
@@ -89,14 +309,6 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling entity subroureg
 -- Compiling architecture behav of subroureg
 
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicMem.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MicMem.vhd}
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity MicMem
--- Compiling architecture behav of MicMem
-
 } {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ConditonMux.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\ConditonMux.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
@@ -104,6 +316,23 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package std_logic_1164
 -- Compiling entity CondMux
 -- Compiling architecture behav of CondMux
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/encoder.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\encoder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity encoder
+-- Compiling architecture behav of encoder
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/INDREG.vhd}} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/INDREG.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity INDREG8
+-- Compiling architecture rtl of INDREG8
 
 } {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BufferPlexer.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BufferPlexer.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
@@ -113,23 +342,6 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling entity BufferPlexer
 -- Compiling architecture struct of BufferPlexer
 
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Z.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Z.vhd}
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity Z
--- Compiling architecture behaviour of Z
-
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/PC.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\PC.vhd}
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Loading package NUMERIC_STD
--- Compiling entity REG16
--- Compiling architecture theonethatsamixture of REG16
-
 } {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TwoOr.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TwoOr.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
@@ -137,14 +349,6 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package std_logic_1164
 -- Compiling entity TwoOr
 -- Compiling architecture dataflow of TwoOr
-
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/CarryFlag.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/CarryFlag.vhd}
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity Cry
--- Compiling architecture behaviour of Cry
 
 } {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/HalfAdder.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/HalfAdder.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
@@ -154,23 +358,160 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling entity HalfAdder
 -- Compiling architecture dataflow of HalfAdder
 
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrMux.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\AddrMux.vhd}
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/multiplexer2.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\multiplexer2.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2
+-- Compiling architecture behavioral of mux2
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrMux.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\AddrMux.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Compiling entity AddrMux
 -- Compiling architecture behav of AddrMux
+** Warning: [14] D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\AddrMux.vhd(26): (vcom-1272) Length of expected is 6; length of actual is 7.
 
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/mux3.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/mux3.vhd}
+** Warning: [14] D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\AddrMux.vhd(29): (vcom-1272) Length of expected is 6; length of actual is 7.
+
+** Warning: [14] D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\AddrMux.vhd(32): (vcom-1272) Length of expected is 6; length of actual is 7.
+
+** Warning: [14] D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\AddrMux.vhd(35): (vcom-1272) Length of expected is 6; length of actual is 7.
+
+** Warning: [14] D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\AddrMux.vhd(37): (vcom-1272) Length of expected is 6; length of actual is 7.
+
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/subroureg.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\subroureg.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity mux3
--- Compiling architecture behavioral of mux3
+-- Compiling entity subroureg
+-- Compiling architecture behav of subroureg
 
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TB.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\TB.vhd}
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/microoperations.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\microoperations.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+** Warning: (vcom-6) -- Waiting for lock by "HarryM@DESKTOP-TB7NCE0, pid = 12424
+". Lockfile is "D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Comp/_lock".
+
+-- Compiling architecture theonethatsamixture of REG16
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package microoperations
+-- Compiling package body microoperations
+-- Loading package microoperations
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ConditonMux.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\ConditonMux.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CondMux
+-- Compiling architecture behav of CondMux
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicSeq.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MicSeq.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity micSeq
+-- Compiling architecture struct of micSeq
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/R.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/R.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity REG8
+-- Compiling architecture struct of REG8
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Fulladder.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Fulladder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FullAdder
+-- Compiling architecture structural of FullAdder
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/multiplexer.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\multiplexer.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux1
+-- Compiling architecture behavioral of mux1
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BTLOGIC.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\BTLOGIC.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity BTLOGIC
+-- Compiling architecture behavioural of BTLOGIC
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/OPLUT.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\OPLUT.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity OPLUT
+-- Compiling architecture struct of OPLUT
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Z.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Z.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Z
+-- Compiling architecture behaviour of Z
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TwoOr.vhd}} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TwoOr.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TwoOr
+-- Compiling architecture dataflow of TwoOr
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/PC.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/PC.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity REG16
+-- Compiling architecture theonethatsamixture of REG16
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BTLOGIC.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\BTLOGIC.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity BTLOGIC
+-- Compiling architecture behavioural of BTLOGIC
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/myreg.vhd}} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/myreg.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity myreg
+-- Compiling architecture regbehav of myreg
+
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AdderGroup.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\AdderGroup.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AdderGroup
+-- Compiling architecture struct of AdderGroup
+
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TB.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TB.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -178,15 +519,7 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling entity TB
 -- Compiling architecture struct of TB
 
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MucBus.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MucBus.vhd}
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity MuxBus
--- Compiling architecture behav of MuxBus
-
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/encoder.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\encoder.vhd}
+} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/encoder.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/encoder.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -205,7 +538,7 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 ** Warning: D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\memory.vhd(66): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
 
 
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrReg.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrReg.vhd}
+} {} {}} {{D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrReg.vhd}} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\AddrReg.vhd}
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -213,29 +546,5 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package NUMERIC_STD
 -- Compiling entity AddrReg
 -- Compiling architecture behav of AddrReg
-
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicSeq.vhd} {1 {vcom -work work -2002 -explicit {D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MicSeq.vhd}
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity micSeq
--- Compiling architecture struct of micSeq
-
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/R.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/R.vhd}
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity REG8
--- Compiling architecture struct of REG8
-
-} {} {}} {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU.vhd} {1 {vcom -work work -2002 -explicit {D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU.vhd}
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity ALU
--- Compiling architecture struct of ALU
 
 } {} {}}

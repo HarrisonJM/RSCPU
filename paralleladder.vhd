@@ -9,7 +9,8 @@ port( A : in STD_LOGIC_VECTOR (n downto 0);
 	  B : in STD_LOGIC_VECTOR (n downto 0);
 	  CarryIn : in STD_LOGIC;
 	  S : out STD_LOGIC_VECTOR (n downto 0);
-	  CarryOut : out STD_LOGIC
+	  CarryOut : out STD_LOGIC;
+	  OVout : out STD_LOGIC
 	);
 end parelleladder; 	  
 
@@ -22,6 +23,7 @@ port(A, B, CarryIn : in std_logic;
 end component;
 
 signal Carrys: std_logic_vector(n downto 0);
+signal V1, V2: std_logic;
 
 begin
 
@@ -54,6 +56,11 @@ Blocks: for I in 0 to n generate
 	end generate otherBlocks;
 end generate Blocks;
 
-CarryOut <= Carrys(n);
+V1 <= Carrys(n-1); --overflow part
+V2 <= Carrys(n);
+OVOUT <= V1 XOR V2;
+
+
+CarryOut <= Carrys(n); --carry bit
 
 end;

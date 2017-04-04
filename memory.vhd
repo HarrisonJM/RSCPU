@@ -57,8 +57,8 @@ architecture RTL of sync_ram is
    36 => x"04", --MOVR
    
    37 => x"06", -- JMPZ
-   38 => x"00", -- JPNZ
-   39 => x"00", -- JPNZ
+   38 => x"00", -- JMPZ
+   39 => x"00", -- JMPZ
 	 
 	 
 	 47 => x"0A", --data for LDAC

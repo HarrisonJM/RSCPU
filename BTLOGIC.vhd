@@ -18,7 +18,7 @@ begin
 	begin
 	
 		case (BT) is
-			when "00" =>
+			when "00" => --JUMP
 				if cond = '0' then
 					MuxOut <= "00";
 					LDMSUB <= '0';
@@ -29,15 +29,15 @@ begin
 					
 				end if;
 				
-			when "01" =>
+			when "01" => --MAP
 				MuxOut <= "10";
 				LDMSUB <= '0';
 				
-			when "10" =>
+			when "10" => --CALL
 				MuxOut <= "01";
 				LDMSUB <= '1';
 				
-			when "11" =>
+			when "11" => --RET
 				MuxOut <= "11";
 				LDMSUB <= '0';
 				

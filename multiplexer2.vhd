@@ -18,9 +18,9 @@ begin
   
 	Process (A, B, C, SEL) begin
 		case SEL is
-		when "00" =>  -- 3 = 0, 2 = 0
+		when "00" => 
 			Z <= A; --O input  
-		when "01" => -- 3 = 0, 2 = 1
+		when "01" => 
 			Z <= B; -- Bus
 		when "10" => 
 			Z <= C; -- Negative Bus

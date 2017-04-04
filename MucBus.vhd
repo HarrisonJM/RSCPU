@@ -11,7 +11,8 @@ port( encinst 	: in std_logic_vector(3 downto 0);
 		TRBUS 	: in std_logic_vector(7 downto 0);
 		RBUS 		: in std_logic_vector(7 downto 0);
 		ACBUS 	: in std_logic_vector(7 downto 0);
-		
+		INDBUS 	: in std_logic_vector(15 downto 0);
+		TRINDBUS 	: in std_logic_vector(15 downto 0);
 		BUS_OUT	: out std_logic_vector(15 downto 0)
 		);
 
@@ -51,7 +52,13 @@ begin
 			
 			when "0100" => --ACBUS
 				BUS_OUT(7 downto 0) <= ACBUS;
-			
+
+			when "0101" => --INDBUS
+			  BUS_OUT <= INDBUS;
+			  
+			 when "1101" => --TRINDBUS
+			   BUS_OUT <= TRINDBUS;
+			   
 			when others =>
 				BUS_OUT <= (others => '0');
 		end case;
