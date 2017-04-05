@@ -16,4 +16,4 @@ force -freeze sim:/tb/CPU/reset 1 0
 
 #Run entire program stored in memory
 
-#run 10000ps
+run 10000ps

@@ -63,7 +63,7 @@ begin
 	cout <= Coutsig;
 	OVout <= OVOUTSIG;
 	
-	process(ADDEROUT(7))
+	process(ADDEROUT)
 	begin
 		if (ALUS23 = "10") then -- subtraction is/was active, the number is signed
 	

@@ -107,7 +107,7 @@ architecture Idontknow of RSCPU is
 	signal ALUAC	: std_logic_vector(7 downto 0); -- AC TO ALLU
 	signal AluSelectorBits : std_logic_vector(6 downto 0); -- The ALU selector bits
 
-	signal ZBIT, OAC, CAC, NAC, CUO, CUC, CUN, carrybit : std_logic;
+	signal ZBIT, ZAC, OAC, CAC, NAC, CUO, CUC, CUN, carrybit : std_logic;
 
 	signal MAINBUS : std_logic_vector(15 downto 0); --The Bus
 
@@ -144,7 +144,8 @@ begin
 	ACBUS <= ALUAC;
 	
 	--FLAGS
-	Z1 : Z  port map(or_reduce(ACALU), clk, MICROPERATIONS(0), reset, ZBIT); --zero
+	ZAC <= (not or_reduce(ACALU));
+	Z1 : Z  port map(ZAC, clk, MICROPERATIONS(0), reset, ZBIT); --zero
 	C1 : Z  port map(CAC, clk, MICROPERATIONS(28), reset, CUC); --Carry
 	N1 : Z  port map(NAC, clk, MICROPERATIONS(33), reset, CUN); -- Negative
 	O1 : Z  port map(OAC, clk, MICROPERATIONS(27), reset, CUO); -- Overflow

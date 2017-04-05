@@ -18,7 +18,7 @@ process(reset, clk, D, load)
 	Q <= '0';
 	
 	elsif (falling_edge(clk) and load = '1') then
-	Q <= not D;
+	Q <= D;
 	end if;		
 end process;
 end;

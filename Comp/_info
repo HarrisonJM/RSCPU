@@ -9,52 +9,52 @@ Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
 Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
 Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
 Z4 dD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU
-Z5 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\AdderGroup.vhd
-Z6 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\AdderGroup.vhd
+Z5 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/AdderGroup.vhd
+Z6 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/AdderGroup.vhd
 l0
 L7
 V@`V<G`RDI94_o6=[3<YKK3
-!s100 L1o5;G49z3?@hd=_bboY;2
 Z7 OV;C;10.1d;51
 32
-!i10b 1
-Z8 !s108 1491326309.519000
-Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\AdderGroup.vhd|
-Z10 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\AdderGroup.vhd|
+Z8 !s108 1491347183.410000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/AdderGroup.vhd|
+Z10 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/AdderGroup.vhd|
 Z11 o-work work -2002 -explicit -O0
 Z12 tExplicit 1
+!s100 L1o5;G49z3?@hd=_bboY;2
+!i10b 1
 Astruct
 R1
 R2
 R3
-Z13 DEx4 work 10 addergroup 0 22 @`V<G`RDI94_o6=[3<YKK3
+DEx4 work 10 addergroup 0 22 @`V<G`RDI94_o6=[3<YKK3
 l49
 L22
 VFB3JRO4Sk]mOQX;NI=[0e1
-!s100 SA<67]QIgF@b05j=2c61i0
 R7
 32
-!i10b 1
 R8
 R9
 R10
 R11
 R12
+!s100 SA<67]QIgF@b05j=2c61i0
+!i10b 1
 Eaddrmux
-Z14 w1491223545
+Z13 w1491223545
 R2
 R3
 R4
-Z15 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrMux.vhd
-Z16 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrMux.vhd
+Z14 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/AddrMux.vhd
+Z15 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/AddrMux.vhd
 l0
 L5
 VD<]IY??G0X]2<lA:D7a=h3
 R7
 32
-Z17 !s108 1491258593.288000
-Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrMux.vhd|
-Z19 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrMux.vhd|
+Z16 !s108 1491347185.364000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/AddrMux.vhd|
+Z18 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/AddrMux.vhd|
 R11
 R12
 !s100 Qj4mA6mYQih<;E5W5Q;8h2
@@ -68,29 +68,29 @@ L17
 VZ:c1ZQzL[[_7g192elEj30
 R7
 32
+R16
 R17
 R18
-R19
 R11
 R12
 !s100 K:6LZ_UE0DVlh=RI5=N5l3
 !i10b 1
 Eaddrreg
-Z20 w1491222802
+Z19 w1491222802
 R1
 R2
 R3
 R4
-Z21 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrReg.vhd
-Z22 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrReg.vhd
+Z20 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/AddrReg.vhd
+Z21 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/AddrReg.vhd
 l0
 L6
 V;DmSYNGM0cJK<haf0HA_?2
 R7
 32
-Z23 !s108 1491258593.466000
-Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrReg.vhd|
-Z25 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/AddrReg.vhd|
+Z22 !s108 1491347185.532000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/AddrReg.vhd|
+Z24 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/AddrReg.vhd|
 R11
 R12
 !s100 6<nNMim^30SB9UJA8@kWB3
@@ -105,28 +105,28 @@ L16
 VE2F9CTPD?IV6IROFz3^GQ2
 R7
 32
+R22
 R23
 R24
-R25
 R11
 R12
 !s100 2QCXjDGcc4g5KP^:Eg;m53
 !i10b 1
 Ealu
-Z26 w1491258151
+Z25 w1491345645
 R2
 R3
 R4
-Z27 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\ALU.vhd
-Z28 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\ALU.vhd
+Z26 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/ALU.vhd
+Z27 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/ALU.vhd
 l0
 L9
 VPBV7KTCRN[CKE=]8CH_0P3
 R7
 32
-Z29 !s108 1491258593.643000
-Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\ALU.vhd|
-Z31 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\ALU.vhd|
+Z28 !s108 1491347183.519000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/ALU.vhd|
+Z30 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/ALU.vhd|
 R11
 R12
 !s100 523^6PHSCH@`63g`7[J@c2
@@ -137,31 +137,31 @@ R3
 DEx4 work 3 alu 0 22 PBV7KTCRN[CKE=]8CH_0P3
 l54
 L21
-Va06eR[n1;:UGj?DlJ:X[@0
+VUGcQClC1K0JA[J:3lM1ej1
 R7
 32
+R28
 R29
 R30
-R31
 R11
 R12
-!s100 0G`=9Y^TEaILd^3B<nM8C3
+!s100 k[Vn;:300d6NX8cnM7hiX3
 !i10b 1
 Ebtlogic
-Z32 w1491246424
+Z31 w1491246424
 R2
 R3
 R4
-Z33 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\BTLOGIC.vhd
-Z34 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\BTLOGIC.vhd
+Z32 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/BTLOGIC.vhd
+Z33 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/BTLOGIC.vhd
 l0
 L5
 VP8j`[Qm:m>z8i1?[R5URL1
 R7
 32
-Z35 !s108 1491258593.783000
-Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\BTLOGIC.vhd|
-Z37 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\BTLOGIC.vhd|
+Z34 !s108 1491347185.714000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/BTLOGIC.vhd|
+Z36 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/BTLOGIC.vhd|
 R11
 R12
 !s100 zm<`9cgSg6X3d=o4f5Uno3
@@ -175,28 +175,28 @@ L14
 VjP:;BXdX6h4dWkGMoYhon1
 R7
 32
+R34
 R35
 R36
-R37
 R11
 R12
 !s100 ``@;GBgH4XXG9XnUOVQG[3
 !i10b 1
 Ebufferplexer
-Z38 w1491230543
+Z37 w1491230543
 R2
 R3
 R4
-Z39 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BufferPlexer.vhd
-Z40 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BufferPlexer.vhd
+Z38 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BusBuffer/BufferPlexer.vhd
+Z39 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BusBuffer/BufferPlexer.vhd
 l0
 L5
 Vm7;@3Olb^Vlc1=51kcT8F2
 R7
 32
-Z41 !s108 1491258598.511000
-Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BufferPlexer.vhd|
-Z43 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BufferPlexer.vhd|
+Z40 !s108 1491347184.913000
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BusBuffer/BufferPlexer.vhd|
+Z42 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BusBuffer/BufferPlexer.vhd|
 R11
 R12
 !s100 3oXZfCT;91YcMLcjE9eNP1
@@ -210,28 +210,28 @@ L22
 VgflS6dY?jan;ME[8Hd_mG0
 R7
 32
+R40
 R41
 R42
-R43
 R11
 R12
 !s100 8M>dm^HhW?hlj@DKILUU]1
 !i10b 1
 Ecarrymux
-Z44 w1491241263
+Z43 w1491241263
 R2
 R3
 R4
-Z45 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\CarryMux.vhd
-Z46 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\CarryMux.vhd
+Z44 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\CarryMux.vhd
+Z45 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\CarryMux.vhd
 l0
 L5
 VRTAk`chD[Re2F7=dA;5h62
 R7
 32
-Z47 !s108 1491258598.822000
-Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\CarryMux.vhd|
-Z49 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\CarryMux.vhd|
+Z46 !s108 1491347188.413000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\CarryMux.vhd|
+Z48 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\CarryMux.vhd|
 R11
 R12
 !s100 =ZXe^]QL[mgGFVk5Fzba81
@@ -245,28 +245,28 @@ L13
 VaaXPbQ<od=E1Tm__PRk[f1
 R7
 32
+R46
 R47
 R48
-R49
 R11
 R12
 !s100 m^0FXQNSJ4a]>NB;X;deJ0
 !i10b 1
 Econdmux
-Z50 w1491221610
+Z49 w1491221610
 R2
 R3
 R4
-Z51 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\ConditonMux.vhd
-Z52 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\ConditonMux.vhd
+Z50 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/ConditonMux.vhd
+Z51 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/ConditonMux.vhd
 l0
 L5
 VWaWUJ:GGXCCAZZ3oUMA052
 R7
 32
-Z53 !s108 1491258594.138000
-Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\ConditonMux.vhd|
-Z55 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\ConditonMux.vhd|
+Z52 !s108 1491347185.849000
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/ConditonMux.vhd|
+Z54 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/ConditonMux.vhd|
 R11
 R12
 !s100 i7dAW26C@@7Ldgb?]BacI0
@@ -280,28 +280,28 @@ L13
 V`SN5Uz^NeAhMCKeCh<Nj92
 R7
 32
+R52
 R53
 R54
-R55
 R11
 R12
 !s100 LP>2jcaEhcR_jgkYFK;iC2
 !i10b 1
 Ecry
-Z56 w1490798682
+Z55 w1490798682
 R2
 R3
 R4
-Z57 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/CarryFlag.vhd
-Z58 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/CarryFlag.vhd
+Z56 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/CarryFlag.vhd
+Z57 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/CarryFlag.vhd
 l0
 L5
 VDHU1AOWiS54[CVo;eIhdN0
 R7
 32
-Z59 !s108 1491258593.933000
-Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/CarryFlag.vhd|
-Z61 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/CarryFlag.vhd|
+Z58 !s108 1491347186.972000
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/CarryFlag.vhd|
+Z60 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/CarryFlag.vhd|
 R11
 R12
 !s100 _iBfFl@TWUa;zKDbUJY_Z2
@@ -315,28 +315,28 @@ L11
 V1fI:zQmoZ]DC@beFS`aAO1
 R7
 32
+R58
 R59
 R60
-R61
 R11
 R12
 !s100 @Wfd6ESY`C]hD?lOIJ:EM1
 !i10b 1
 Eencoder
-Z62 w1491229332
+Z61 w1491229332
 R2
 R3
 R4
-Z63 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/encoder.vhd
-Z64 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/encoder.vhd
+Z62 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BusBuffer/encoder.vhd
+Z63 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BusBuffer/encoder.vhd
 l0
 L5
 VcK4h=HTb0<XQSQVFd]Knk2
 R7
 32
-Z65 !s108 1491258594.296000
-Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/encoder.vhd|
-Z67 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/encoder.vhd|
+Z64 !s108 1491347185.039000
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BusBuffer/encoder.vhd|
+Z66 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BusBuffer/encoder.vhd|
 R11
 R12
 !s100 8H6Wc3ZoYUe]R^2^^?^l30
@@ -350,28 +350,28 @@ L14
 V40A:1:kklY7@?E?>KJ0@K2
 R7
 32
+R64
 R65
 R66
-R67
 R11
 R12
 !s100 RP53?3P`VU7nDae34IST72
 !i10b 1
 Efulladder
-Z68 w1446985498
+Z67 w1446985498
 R2
 R3
 R4
-Z69 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Fulladder.vhd
-Z70 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Fulladder.vhd
+Z68 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/Fulladder.vhd
+Z69 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/Fulladder.vhd
 l0
 L4
 VRY[R:T4]K8dCm=LFV]21b2
 R7
 32
-Z71 !s108 1491258594.472000
-Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Fulladder.vhd|
-Z73 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Fulladder.vhd|
+Z70 !s108 1491347183.673000
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/Fulladder.vhd|
+Z72 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/Fulladder.vhd|
 R11
 R12
 !s100 Y[Of<n1`A1eEK3czSgG^90
@@ -385,28 +385,28 @@ L10
 V:UUF3Zd]DW`UC`zc`Kk5o2
 R7
 32
+R70
 R71
 R72
-R73
 R11
 R12
 !s100 g4HChGT0_CC9XlNOXK_4O3
 !i10b 1
 Ehalfadder
-Z74 w1446982800
+Z73 w1446982800
 R2
 R3
 R4
-Z75 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/HalfAdder.vhd
-Z76 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/HalfAdder.vhd
+Z74 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/HalfAdder.vhd
+Z75 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/HalfAdder.vhd
 l0
 L6
 V:WhiaZ]9^[zJ8af^PDMRD1
 R7
 32
-Z77 !s108 1491258594.742000
-Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/HalfAdder.vhd|
-Z79 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/HalfAdder.vhd|
+Z76 !s108 1491347183.837000
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/HalfAdder.vhd|
+Z78 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/HalfAdder.vhd|
 R11
 R12
 !s100 zEP^?E[KOJFW6R8FF15>f2
@@ -420,29 +420,29 @@ L11
 VWXhFbj@9n44<4`^Ll8P>J3
 R7
 32
+R76
 R77
 R78
-R79
 R11
 R12
 !s100 >@=B7j9iTNlfgPjOK9:FV3
 !i10b 1
 Eindreg16
-Z80 w1491229911
+Z79 w1491229911
 R1
 R2
 R3
 R4
-Z81 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\INDREG.vhd
-Z82 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\INDREG.vhd
+Z80 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/INDREG.vhd
+Z81 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/INDREG.vhd
 l0
 L6
 V8JanQ32;FaBG:mKL6J6m=3
 R7
 32
-Z83 !s108 1491258598.642000
-Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\INDREG.vhd|
-Z85 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\INDREG.vhd|
+Z82 !s108 1491347187.114000
+Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/INDREG.vhd|
+Z84 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/INDREG.vhd|
 R11
 R12
 !s100 fL5:1[7becCS8PYmL3hdo2
@@ -457,29 +457,29 @@ L13
 VDDL5;;06WT@21Nz@1=gRb3
 R7
 32
+R82
 R83
 R84
-R85
 R11
 R12
 !s100 ?i2:P3O6433egUBg2Dc>20
 !i10b 1
 Eindreg8
-Z86 w1491221743
+Z85 w1491221743
 R1
 R2
 R3
 R4
-Z87 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/INDREG.vhd
-Z88 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/INDREG.vhd
+Z86 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/INDREG.vhd
+Z87 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/INDREG.vhd
 l0
 L6
 V@SV:6GfYX69gcX=D5ib>d2
 R7
 32
-Z89 !s108 1491223328.260000
-Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/INDREG.vhd|
-Z91 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/INDREG.vhd|
+Z88 !s108 1491223328.260000
+Z89 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/INDREG.vhd|
+Z90 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/INDREG.vhd|
 R11
 R12
 !s100 TVhlJGEM4UbZhAE:9MNoC1
@@ -494,28 +494,28 @@ L13
 VNn_[XU9[X;;9^h4KobS9h3
 R7
 32
+R88
 R89
 R90
-R91
 R11
 R12
 !s100 n]TjDH^alRVXD_:bZWeHl2
 !i10b 1
 Emicmem
-Z92 w1491236561
+Z91 w1491236561
 R2
 R3
 R4
-Z93 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MicMem.vhd
-Z94 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MicMem.vhd
+Z92 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/MicMem.vhd
+Z93 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/MicMem.vhd
 l0
 L5
 VOYZegk^Gb4M[FNeW4L5zT0
 R7
 32
-Z95 !s108 1491258595.051000
-Z96 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MicMem.vhd|
-Z97 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MicMem.vhd|
+Z94 !s108 1491347185.999000
+Z95 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/MicMem.vhd|
+Z96 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/MicMem.vhd|
 R11
 R12
 !s100 M1KfP05g`YM<RnKlHiZ;g2
@@ -529,103 +529,103 @@ L16
 V;lD=m[kNGR5YIcJ5jbl8=1
 R7
 32
+R94
 R95
 R96
-R97
 R11
 R12
 !s100 `Q2lBP6EjEB@QZkIEL;i_2
 !i10b 1
 Emicopout
-Z98 w1491244431
-Z99 DPx4 work 15 microoperations 0 22 8AeEe[4_2=c`^m;V`1Co90
+Z97 w1491346171
+Z98 DPx4 work 15 microoperations 0 22 8AeEe[4_2=c`^m;V`1Co90
 R1
 R2
 R3
 R4
-Z100 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MICOPOUT.vhd
-Z101 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MICOPOUT.vhd
+Z99 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/MICOPOUT.vhd
+Z100 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/MICOPOUT.vhd
 l0
 L8
 VNTMRKNS2da3LR;:=m>=BO3
 R7
 32
-Z102 !s108 1491258595.240000
-Z103 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MICOPOUT.vhd|
-Z104 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MICOPOUT.vhd|
+Z101 !s108 1491347186.177000
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/MICOPOUT.vhd|
+Z103 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/MICOPOUT.vhd|
 R11
 R12
 !s100 `cz7o=7iPmKF9@zd3Lbcc1
 !i10b 1
 Astruct
-R99
+R98
 R1
 R2
 R3
 DEx4 work 8 micopout 0 22 NTMRKNS2da3LR;:=m>=BO3
 l57
 L15
-V9E8h`Wkel^YDYai^NC6bh3
+Vg0CS`V0V7CaZ@LcUZ`P941
 R7
 32
+R101
 R102
 R103
-R104
 R11
 R12
-!s100 1KU2nmPYYcd[R_YhfYnN`1
+!s100 QWI2eEJzDS1GZjPgbOgG;1
 !i10b 1
 Pmicrooperations
 R2
 R3
-Z105 w1491236519
+Z104 w1491342053
 R4
-Z106 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\microoperations.vhd
-Z107 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\microoperations.vhd
+Z105 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/microoperations.vhd
+Z106 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/microoperations.vhd
 l0
 L4
 V8AeEe[4_2=c`^m;V`1Co90
 R7
 32
-Z108 !s108 1491258595.398000
-Z109 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\microoperations.vhd|
-Z110 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\microoperations.vhd|
+Z107 !s108 1491347186.346000
+Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/microoperations.vhd|
+Z109 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/microoperations.vhd|
 R11
 R12
-!s100 Md0d49[2o2:G=719_GjV_0
+!s100 <g>;48LGk>5EgjSdDTzh90
 !i10b 1
 Bbody
-R99
+R98
 R2
 R3
 l0
-L126
+L122
 V0SlFD5U9P^JVhELNSm^On3
 R7
 32
+R107
 R108
 R109
-R110
 R11
 R12
 nbody
-!s100 4I64CMn]lImnI0nim@N[O2
+!s100 Yn]G7ggA?lNEm3e4NHj671
 !i10b 1
 Emicseq
-Z111 w1491239905
+Z110 w1491239905
 R2
 R3
 R4
-Z112 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MicSeq.vhd
-Z113 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MicSeq.vhd
+Z111 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/MicSeq.vhd
+Z112 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/MicSeq.vhd
 l0
 L5
 Vn9PiZKdc^4VJiGb3I7CN30
 R7
 32
-Z114 !s108 1491258595.555000
-Z115 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MicSeq.vhd|
-Z116 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MicSeq.vhd|
+Z113 !s108 1491347186.502000
+Z114 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/MicSeq.vhd|
+Z115 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/MicSeq.vhd|
 R11
 R12
 !s100 VKIP?=N5zNQYH[Fl@5fKE2
@@ -639,28 +639,28 @@ L13
 VmDO3:bQF4442?RBKCEA?80
 R7
 32
+R113
 R114
 R115
-R116
 R11
 R12
 !s100 9@e7UJa[U=[_h=P^dN1ei2
 !i10b 1
 Emux1
-Z117 w1489591859
+Z116 w1489591859
 R2
 R3
 R4
-Z118 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\multiplexer.vhd
-Z119 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\multiplexer.vhd
+Z117 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/multiplexer.vhd
+Z118 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/multiplexer.vhd
 l0
 L7
 VA7b`6AbDTVUoB;C@Fl7JE2
 R7
 32
-Z120 !s108 1491258595.936000
-Z121 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\multiplexer.vhd|
-Z122 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\multiplexer.vhd|
+Z119 !s108 1491347184.017000
+Z120 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/multiplexer.vhd|
+Z121 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/multiplexer.vhd|
 R11
 R12
 !s100 ;AlSd62BAbUfIS7_iWV`V1
@@ -674,28 +674,28 @@ L14
 VMW?H[7E_VQVmLFjOmXZ3=1
 R7
 32
+R119
 R120
 R121
-R122
 R11
 R12
 !s100 I[10DdgNnT8POAEdLS:Se0
 !i10b 1
 Emux2
-Z123 w1489591704
+Z122 w1491327356
 R2
 R3
 R4
-Z124 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/multiplexer2.vhd
-Z125 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/multiplexer2.vhd
+Z123 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/multiplexer2.vhd
+Z124 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/multiplexer2.vhd
 l0
 L5
 V>=HfW5bAh6ZTzKUZ0YElT3
 R7
 32
-Z126 !s108 1491258596.121000
-Z127 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/multiplexer2.vhd|
-Z128 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/multiplexer2.vhd|
+Z125 !s108 1491347184.205000
+Z126 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/multiplexer2.vhd|
+Z127 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/multiplexer2.vhd|
 R11
 R12
 !s100 oXA@66HXzb<j^PEmVX:8W3
@@ -709,28 +709,28 @@ L11
 V6<_gjSQTOg1zA[;1Y0QWf0
 R7
 32
+R125
 R126
 R127
-R128
 R11
 R12
 !s100 PF@?i73N?1YnL0;K22MdC2
 !i10b 1
 Emux3
-Z129 w1490897239
+Z128 w1490897239
 R2
 R3
 R4
-Z130 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/mux3.vhd
-Z131 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/mux3.vhd
+Z129 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/mux3.vhd
+Z130 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/mux3.vhd
 l0
 L5
 VYM`SKKm56XXM6_@2Y_^KP0
 R7
 32
-Z132 !s108 1491258596.293000
-Z133 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/mux3.vhd|
-Z134 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/mux3.vhd|
+Z131 !s108 1491347184.352000
+Z132 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/mux3.vhd|
+Z133 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/mux3.vhd|
 R11
 R12
 !s100 Im6D]FJ;VH3O1m@o=PPVP1
@@ -744,28 +744,28 @@ L11
 VB=Q=PlOGk@PY4j``>Bi@B1
 R7
 32
+R131
 R132
 R133
-R134
 R11
 R12
 !s100 Y22M]31@BOlXAFN_6?TgA1
 !i10b 1
 Emuxbus
-Z135 w1491229586
+Z134 w1491229586
 R2
 R3
 R4
-Z136 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MucBus.vhd
-Z137 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MucBus.vhd
+Z135 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BusBuffer/MucBus.vhd
+Z136 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BusBuffer/MucBus.vhd
 l0
 L5
 VW=I<@mSj<^no]2LzDKTe[3
 R7
 32
-Z138 !s108 1491258595.800000
-Z139 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MucBus.vhd|
-Z140 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\MucBus.vhd|
+Z137 !s108 1491347185.208000
+Z138 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BusBuffer/MucBus.vhd|
+Z139 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/BusBuffer/MucBus.vhd|
 R11
 R12
 !s100 73GaKOkKh_7S>^38KdKb02
@@ -779,28 +779,28 @@ L22
 V?k<O_6mEi@ZiD>=ODK<FO2
 R7
 32
+R137
 R138
 R139
-R140
 R11
 R12
 !s100 QUFBY8lQ^PO`MHmz^_19S0
 !i10b 1
 Emyreg
-Z141 w1490199752
+Z140 w1490199752
 R2
 R3
 R4
-Z142 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/myreg.vhd
-Z143 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/myreg.vhd
+Z141 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/myreg.vhd
+Z142 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/myreg.vhd
 l0
 L4
 V?2dcZNAL[1Z1gScjS[J:23
 R7
 32
-Z144 !s108 1491258596.448000
-Z145 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/myreg.vhd|
-Z146 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/myreg.vhd|
+Z143 !s108 1491347187.265000
+Z144 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/myreg.vhd|
+Z145 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/myreg.vhd|
 R11
 R12
 !s100 UR1fe?2?d>6GWMNggO<2n2
@@ -814,29 +814,29 @@ L11
 V]SCo3Dg=L<Zn]mc[Vki8z0
 R7
 32
+R143
 R144
 R145
-R146
 R11
 R12
 !s100 E<>hDGJ[gAM7`_V`iYJzY2
 !i10b 1
 Eoplut
-Z147 w1491246875
+Z146 w1491246875
 R1
 R2
 R3
 R4
-Z148 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\OPLUT.vhd
-Z149 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\OPLUT.vhd
+Z147 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/OPLUT.vhd
+Z148 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/OPLUT.vhd
 l0
 L7
 VPPDalDSbOeQ7n^=W[:JWM3
 R7
 32
-Z150 !s108 1491258596.607000
-Z151 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\OPLUT.vhd|
-Z152 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\OPLUT.vhd|
+Z149 !s108 1491347186.649000
+Z150 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/OPLUT.vhd|
+Z151 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/OPLUT.vhd|
 R11
 R12
 !s100 <`aWJSDLh<`CU2RETnn3W2
@@ -851,28 +851,28 @@ L14
 VVeJi0X8NLNdfmfjbGaUFA0
 R7
 32
+R149
 R150
 R151
-R152
 R11
 R12
 !s100 SZMLd^z35>FnWB[a9fbQY2
 !i10b 1
 Eoverflow
-Z153 w1490798662
+Z152 w1490798662
 R2
 R3
 R4
-Z154 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/OverFlow.vhd
-Z155 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/OverFlow.vhd
+Z153 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/OverFlow.vhd
+Z154 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/OverFlow.vhd
 l0
 L5
 Vn01j4F=AeTf7XhNm>::I]0
 R7
 32
-Z156 !s108 1491258596.766000
-Z157 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/OverFlow.vhd|
-Z158 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/OverFlow.vhd|
+Z155 !s108 1491347187.525000
+Z156 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/OverFlow.vhd|
+Z157 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/OverFlow.vhd|
 R11
 R12
 !s100 QC<Pj;B;MARL6bBM1eQPJ0
@@ -886,28 +886,28 @@ L11
 V5k0?L=K:UWh]94LZQ[7hA0
 R7
 32
+R155
 R156
 R157
-R158
 R11
 R12
 !s100 T^Lz7I@33zV06O?n^_8;]1
 !i10b 1
 Eparelleladder
-Z159 w1491326128
+Z158 w1491326128
 R2
 R3
 R4
-Z160 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\paralleladder.vhd
-Z161 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\paralleladder.vhd
+Z159 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/paralleladder.vhd
+Z160 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/paralleladder.vhd
 l0
 L4
 Vj:m8R[:cofaW`5E:C50@[1
 R7
 32
-Z162 !s108 1491326275.603000
-Z163 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\paralleladder.vhd|
-Z164 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\paralleladder.vhd|
+Z161 !s108 1491347184.629000
+Z162 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/paralleladder.vhd|
+Z163 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/paralleladder.vhd|
 R11
 R12
 !s100 l0FnA:`ZNHIhLcB9TCUhh3
@@ -921,29 +921,29 @@ L17
 V3Rk:9OmV0L;:YZ3B6PNcI1
 R7
 32
+R161
 R162
 R163
-R164
 R11
 R12
 !s100 MXk<45a93_ggccNDj24W^0
 !i10b 1
 Ereg16
-Z165 w1490990506
+Z164 w1490990506
 R1
 R2
 R3
 R4
-Z166 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/PC.vhd
-Z167 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/PC.vhd
+Z165 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/PC.vhd
+Z166 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/PC.vhd
 l0
 L6
 VaF?OKQ`OA>PooJ`;mB`;R0
 R7
 32
-Z168 !s108 1491258597.240000
-Z169 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/PC.vhd|
-Z170 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/PC.vhd|
+Z167 !s108 1491347187.687000
+Z168 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/PC.vhd|
+Z169 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/PC.vhd|
 R11
 R12
 !s100 5;[c8GY_8lojgBT<=d=3[1
@@ -958,28 +958,28 @@ L13
 Vmnif5e2@>hUKTVjT6eQTk1
 R7
 32
+R167
 R168
 R169
-R170
 R11
 R12
 !s100 h]1TbjJd2WH1WMkU]mnF=2
 !i10b 1
 Ereg8
-Z171 w1489602566
+Z170 w1489602566
 R2
 R3
 R4
-Z172 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/R.vhd
-Z173 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/R.vhd
+Z171 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/R.vhd
+Z172 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/R.vhd
 l0
 L5
 VVe>:=l2n>Xai]7XON<:3b3
 R7
 32
-Z174 !s108 1491258597.398000
-Z175 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/R.vhd|
-Z176 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/R.vhd|
+Z173 !s108 1491347187.839000
+Z174 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/R.vhd|
+Z175 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/R.vhd|
 R11
 R12
 !s100 L6m`dejfFkCgHU]F3@EGb2
@@ -993,67 +993,67 @@ L12
 VK?9?;Gc`jTTEme;Li0jMY0
 R7
 32
+R173
 R174
 R175
-R176
 R11
 R12
 !s100 JzLL1GK0Y_P1]iDETREDc2
 !i10b 1
 Erscpu
-Z177 w1491240986
-Z178 DPx8 synopsys 10 attributes 0 22 J^T`lPA_8_J<l8kQiVE]>2
-Z179 DPx4 ieee 14 std_logic_misc 0 22 >dU:RInm^_6_mBJ^<6QGY2
+Z176 w1491350295
+Z177 DPx8 synopsys 10 attributes 0 22 J^T`lPA_8_J<l8kQiVE]>2
+Z178 DPx4 ieee 14 std_logic_misc 0 22 >dU:RInm^_6_mBJ^<6QGY2
 R2
 R3
 R4
-Z180 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\RSCPU.vhd
-Z181 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\RSCPU.vhd
+Z179 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\RSCPU.vhd
+Z180 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\RSCPU.vhd
 l0
 L7
 VF_fH_Yi<SiVGbCFU53AcM1
+!s100 F1R^L_QA9oLZ7:DK5If]@2
 R7
 32
-Z182 !s108 1491258597.607000
-Z183 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\RSCPU.vhd|
-Z184 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\RSCPU.vhd|
+!i10b 1
+Z181 !s108 1491350301.885000
+Z182 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\RSCPU.vhd|
+Z183 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\RSCPU.vhd|
 R11
 R12
-!s100 F1R^L_QA9oLZ7:DK5If]@2
-!i10b 1
 Aidontknow
+R177
 R178
-R179
 R2
 R3
-DEx4 work 5 rscpu 0 22 F_fH_Yi<SiVGbCFU53AcM1
+Z184 DEx4 work 5 rscpu 0 22 F_fH_Yi<SiVGbCFU53AcM1
 l121
 L18
-VgL81:fcU^m=AQfTjU[k0K3
+V_IzoU2WBzVXlOTb]<4HeE0
+!s100 `g=Gd0jXC15fihXQL`?Qc3
 R7
 32
+!i10b 1
+R181
 R182
 R183
-R184
 R11
 R12
-!s100 FN2W?zWLD?aYC=aTgANdf0
-!i10b 1
 Esubroureg
 Z185 w1491222317
 R2
 R3
 R4
-Z186 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/subroureg.vhd
-Z187 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/subroureg.vhd
+Z186 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/subroureg.vhd
+Z187 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/subroureg.vhd
 l0
 L5
 V[82d>7QfET<<5]g3UiC<:3
 R7
 32
-Z188 !s108 1491258597.735000
-Z189 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/subroureg.vhd|
-Z190 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/subroureg.vhd|
+Z188 !s108 1491347186.811000
+Z189 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/subroureg.vhd|
+Z190 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/MicroSequencer/subroureg.vhd|
 R11
 R12
 !s100 KYI4N?e_d0e[_WBii;5MT0
@@ -1087,7 +1087,7 @@ L5
 V59I22boc1aHKf?5a8DVW82
 R7
 32
-Z194 !s108 1491258594.914000
+Z194 !s108 1491347188.593000
 Z195 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\memory.vhd|
 Z196 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\memory.vhd|
 R11
@@ -1116,16 +1116,16 @@ Z197 w1490991323
 R2
 R3
 R4
-Z198 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TB.vhd
-Z199 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TB.vhd
+Z198 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\TB.vhd
+Z199 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\TB.vhd
 l0
 L5
 V=PE`:W[7O>Hb87<nHdM>f1
 R7
 32
-Z200 !s108 1491258597.933000
-Z201 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TB.vhd|
-Z202 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TB.vhd|
+Z200 !s108 1491347188.889000
+Z201 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\TB.vhd|
+Z202 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\TB.vhd|
 R11
 R12
 !s100 Jfe=d6A`7?YAa[7BQ]Ph52
@@ -1151,16 +1151,16 @@ Z203 w1491241335
 R2
 R3
 R4
-Z204 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\TR16.vhd
-Z205 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\TR16.vhd
+Z204 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/TR16.vhd
+Z205 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/TR16.vhd
 l0
 L4
 VPTl^fHQV36HAaB>njWa9`2
 R7
 32
-Z206 !s108 1491258599.054000
-Z207 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\TR16.vhd|
-Z208 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\TR16.vhd|
+Z206 !s108 1491347188.001000
+Z207 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/TR16.vhd|
+Z208 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Registers/TR16.vhd|
 R11
 R12
 !s100 iFQEniR;N3CFYEBiELS^=0
@@ -1186,16 +1186,16 @@ Z209 w1446982812
 R2
 R3
 R4
-Z210 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TwoOr.vhd
-Z211 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TwoOr.vhd
+Z210 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/TwoOr.vhd
+Z211 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/TwoOr.vhd
 l0
 L6
 VTbLS36d3PSM@fhzBC7RL_2
 R7
 32
-Z212 !s108 1491258598.236000
-Z213 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TwoOr.vhd|
-Z214 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/TwoOr.vhd|
+Z212 !s108 1491347184.747000
+Z213 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/TwoOr.vhd|
+Z214 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/ALU/TwoOr.vhd|
 R11
 R12
 !s100 :fcVAlne>LWYna3_EYiTl2
@@ -1217,20 +1217,20 @@ R12
 !s100 k1d:En]6H[S`;?Abo`oZ<0
 !i10b 1
 Ez
-Z215 w1490416145
+Z215 w1491350141
 R2
 R3
 R4
-Z216 8D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Z.vhd
-Z217 FD:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Z.vhd
+Z216 8D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\Registers\Z.vhd
+Z217 FD:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\Registers\Z.vhd
 l0
 L5
 V=Rfd<:iG06H?0>6M@]aNS0
 R7
 32
-Z218 !s108 1491258598.364000
-Z219 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Z.vhd|
-Z220 !s107 D:/Documents/University/Year 2/Digital Design/Semester 2/RSCPU/Z.vhd|
+Z218 !s108 1491350162.454000
+Z219 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\Registers\Z.vhd|
+Z220 !s107 D:\Documents\University\Year 2\Digital Design\Semester 2\RSCPU\Registers\Z.vhd|
 R11
 R12
 !s100 >k@d7aOQS4JBg?>AJ[F^G2
@@ -1241,7 +1241,7 @@ R3
 DEx4 work 1 z 0 22 =Rfd<:iG06H?0>6M@]aNS0
 l13
 L11
-V[^Ue[EFj3nPF`dckJo;a:3
+VcPJj1WM1L07QBE=Jefn::2
 R7
 32
 R218
@@ -1249,5 +1249,5 @@ R219
 R220
 R11
 R12
-!s100 6SHzng69SEz>alF]?9[NI2
+!s100 fENUzU]c?8?PCLWP=Z7m`0
 !i10b 1

@@ -32,14 +32,14 @@ architecture struct of MICOPOUT is
 	  11 => ACDR, --ldac5, LDIND3
 	  12 => MDR, --stac5, STIND3
 	  13 => ZALU or CALU or PLUS,
-	  14 => ZALU or OALU or NALU or CALU or MINU,
+	  14 => ZALU or OALU or NALU or MINU,
 	  15 => ZALU or NALU or CALU or ACIN,
 	  16 => ZALU or OALU or NALU or CALU or ACZO,
 	  17 => PCIN,
 	  18 => ZALU or ANDmic,
 	  19 => ZALU or ORmic,
 	  20 => ZALU or XORmic,
-	  21 => ZALU or NOTmic,
+	  21 => ZALU or NALU or NOTmic,
 	  22 => ARIN or PCIN or DRM, --SLSUB0
 	  23 => PCIN or DRM or TRDR,
 	  24 => ARDT, 
